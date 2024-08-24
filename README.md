@@ -1,4 +1,4 @@
-# MuhammadAl-ZubairObaid.ConsoleEnhancements
+# ConsoleEnhancements
 
 Extend your abilities to visualize console with less code; You can also create console forms using Console Forms Language (CFL).
 
