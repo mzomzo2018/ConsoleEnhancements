@@ -47,7 +47,7 @@ namespace MuhammadAl_ZubairObaid.Utilities
                 }
                 else if (functionName == "|")
                 {
-                    // Initializing local variables
+                    // Initializing local variables 
                     var line = "";
                     // Function expression: |(int startIndex, string centerizedText, int endIndex)
                     if (functionParameters.Length >= 3)
